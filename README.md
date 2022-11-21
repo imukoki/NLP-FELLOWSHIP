@@ -1,7 +1,7 @@
 # Web scraping
 
 ## Description
-The objective of this project is to scrap the job opportunities posted (https://www.jobinrwanda.com) using the requests library to interact with the API. A library called BeautifulSoup to extract the meaningful content from the html which is obtained when the request library interacts with the API.
+The objective of this project is to scrap the job opportunities posted [here](https://www.jobinrwanda.com) using the requests library to interact with the API. A library called BeautifulSoup to extract the meaningful content from the html which is obtained when the request library interacts with the API.
 
 
 ## Code
