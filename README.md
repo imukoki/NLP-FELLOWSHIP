@@ -29,6 +29,8 @@ The other objective of the project was to convert a list of sentences to feature
 
 The input of the function will be the matrix of tokens and output will be matrix with digits.
 
+Two ways of converting text to features were used in the project which are the simplest form of featurization and bag of words (BOW)
+
 ## Simplest form of featurization
 The simplest way is to assign each unique text a number starting from 0 and increase by one until all the text has been assigned numbers
 
