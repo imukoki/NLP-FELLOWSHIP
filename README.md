@@ -1,1 +1,2 @@
 # NLP-FELLOWSHIP
+This is a repository for an NLP fellowship which I am currently taking part in which is offered Huza Labs in collaboration with GIZ. All the projects that I have worked on since the start of the fellowship are saved under branch for the week the project was done. Some of the cool things that are going to be done in this fellowship bulding a machine learning translation engine and a chat bot.
